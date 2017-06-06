@@ -1,0 +1,30 @@
+
+main {
+	background-color: black;
+}
+
+h1 {
+    color: darkorange;
+    text-align: center;
+}
+
+h2 {
+    color: goldenrod;
+    text-align: center;
+}
+
+h3 {
+    color: aqua;
+}
+
+h4 {
+    color: #ecb3ff;
+}
+
+h5 {
+    color: #f0f5f5;
+}
+
+p {
+    color: #f2f2f2;
+}

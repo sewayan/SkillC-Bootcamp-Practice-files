@@ -1,0 +1,88 @@
+body {
+	font-family: 'Arvo', serif;
+	background: white;
+	text-transform: uppercase;
+	text-align: justify;
+	/*float: left;*/
+}
+
+#wrapper { /* limit width, "boxy"-layout */
+    width: 550px;
+    margin: 0 auto;
+}
+
+.thisisyour{ /*top three words*/
+	font-weight: bolder;
+	font-size: 10px;
+	margin: 0px 0px 0px 0px;
+	border: none;
+	padding: 0px;
+	height: 30px;
+	width:55%;
+}
+
+.topLeft {
+	margin: 0px 0px 0px 0px;
+	border: none;
+	padding: 0px;
+	height: auto;
+	width:55%;
+	font-weight: bolder;
+	font-size: 15px;
+}
+
+#life{ /* "Life", top right */
+	font-weight: bolder;
+	font-size: 100px;
+	line-height: 1;
+	margin: 0px 10px -25px 30px;
+	padding: 0px 0px 0px 5px;
+	border: none;
+	padding: 0px;
+	float: right;
+	width: 45%;
+	/* text-align: right; */
+}
+
+#dontlike_changeit_quit{
+	margin: 0px 0px 0px 0px;
+	border: none;
+	padding: 0px;
+}
+
+#biggestFont{
+	font-weight: bolder;
+	font-size: 25px; 
+}
+
+.mediumFont{
+	font-weight: normal;
+	font-size: 15px;
+	display: block;
+}
+
+.mediumFontBold{
+	font-weight: bold;
+	font-size: 15px;	
+}
+
+
+/* 
+}
+
+
+.smallerFont{
+	font font-weight: normal;
+	font-size: 25px;
+}
+
+
+.LIS { /* "Life is Short", bottom left */
+/*	font-weight: bold;
+	font-size: 85px;
+	clear: both;
+}
+
+#bottomLeft{
+	float: left;
+} */

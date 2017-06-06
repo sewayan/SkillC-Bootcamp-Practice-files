@@ -1,0 +1,27 @@
+div {
+    padding: 10px;
+    margin: 10px;
+    width: 75px;
+    height: 75px;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.one {
+    background: red;
+    float: right;
+}
+
+.two {
+    background: purple;
+    float: right;
+}
+
+.three {
+    background: blue;
+    float: right;
+}

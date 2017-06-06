@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body{
+	margin:0px;
+	font-family: 'Montserrat', sans-serif;
+	color: dimgray;
+	text-align:center;
+	/* Background image from http://subtlepatterns.com/ */
+	/*local folder*/
+	background:url(/Users/sebastianwayan/desktop/codes/SkillC-Bootcamp/206-first-website/img/symphony.png) repeat;
+	
+}
+
+/* -------------- Body Styles ------------*/
+h1{
+	color: tomato;
+}
+
+h2{
+	color: Salmon;
+}
+
+
+h1.name{
+	margin-bottom:0px;
+	border:10px solid tomato;
+	padding:30px;
+	display:inline;
+}
+
+
+#wrapper{
+	margin-top:150px;
+}
+
+h2.title{
+	margin-top: 40px;
+    padding: 30px;
+}
+
+/* -------------- Contact Styles ------------*/
+a.email{
+	color:DarkSeaGreen;
+	text-decoration:none;
+}
+
+.phone-number{
+	color:DarkSeaGreen;
+}
+
+/* -------------- Quote Styles ------------*/
+
+.line-break{ /* creates horizontal line, visual treat */
+	border: 1px solid grey;
+    margin: 30px auto;
+    width: 50%;
+}
+
+.inspirational-quote{
+	font-style:italic;
+	font-size:20px;
+	margin-top:50px;
+	line-height:30px;
+}

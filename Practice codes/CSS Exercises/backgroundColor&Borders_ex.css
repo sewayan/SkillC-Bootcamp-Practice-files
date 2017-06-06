@@ -1,0 +1,29 @@
+.border-div {
+        padding: 10px;
+        border: 4px dotted #1affa3;
+}
+
+.color-container {
+        width: 345px;
+        height: 50px;
+}
+
+#color-div-1 {
+        background: #e6f0ff;
+}
+
+#color-div-2 {
+        background: #b3d1ff;
+}
+
+#color-div-3 {
+        background: #99c2ff;
+}
+
+#color-div-4 {
+        background: #80b3ff;
+}
+
+#color-div-5 {
+        background: #66a3ff;
+}

@@ -1,0 +1,40 @@
+/* Start typing your CSS below! */
+
+h1 {
+	font-family: sans-serif;
+	color: navy;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+h2 {
+	font-family: sans-serif;
+	color: #55acee;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+p {
+	font-family: sans-serif;
+	color: black;
+	font-weight: lighter;
+	line-height: 30px;
+	text-indent: 10%;
+}
+
+
+/* original css code
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+p {
+
+}
+
+*/

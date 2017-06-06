@@ -1,0 +1,15 @@
+h1, p {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.cool_quote { /*id -> ".idName or tag.idName" */
+    font-weight: bold;
+    background: pink;
+}
+
+#fav_quote { /* class -> "tag.className" */
+    font-weight: bolder;
+    background: yellow;
+    word-spacing: 12px;
+}
