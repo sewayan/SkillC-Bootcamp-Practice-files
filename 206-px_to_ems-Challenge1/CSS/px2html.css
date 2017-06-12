@@ -1,0 +1,59 @@
+@charset "UTF-8"
+
+/*html {
+	font-size: 24px;
+}-> if set it's seen as root-font for rem*/
+
+body {
+font-size: 20px;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+font-size:3.75rem;
+font-family: 'Sansita One', cursive;
+}
+
+h2 {
+font-size:2.25em;
+}
+
+h3 {
+font-size:1.87rem;
+}
+
+h4 {
+font-size:1.31em;
+}
+p {
+font-size:1em;
+}
+
+/* og code
+
+body {
+font-size: 16px;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+font-size:60px;
+font-family: 'Sansita One', cursive;
+}
+
+h2 {
+font-size:36px;
+}
+
+h3 {
+font-size:30px;
+}
+
+h4 {
+font-size:21px;
+}
+p {
+font-size:16px;
+}
+
+*/
