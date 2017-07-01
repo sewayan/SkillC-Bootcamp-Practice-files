@@ -1,0 +1,80 @@
+@charset "UTF-8"
+
+body {
+font-size: 16px;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+main {
+	font-size:18px;
+}
+
+h1 {
+font-size:3.75em;
+font-family: 'Sansita One', cursive;
+}
+
+h2 {
+font-size:2.25em;
+}
+
+p {
+font-size:1em;
+}
+
+aside {
+	font-size:16px;
+}
+
+h3 {
+font-size:1.87em;
+}
+
+footer {
+	font-size:12px;
+}
+
+h4 {
+font-size:1.5em;
+}
+
+/* og code
+@charset "UTF-8"
+
+body {
+font-size: 16px;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+#module-one {
+	font-size:2em;
+}
+
+h1 {
+font-size:60px;
+font-family: 'Sansita One', cursive;
+}
+
+h2 {
+font-size:36px;
+}
+
+p {
+font-size:16px;
+}
+
+#module-two {
+	font-size:1em;
+}
+
+h3 {
+font-size:30px;
+}
+
+#module-three {
+	font-size:0.5em;
+}
+
+h4 {
+font-size:21px;
+} */
